@@ -10,4 +10,4 @@ The purpose of this project is to create an animated choropleth map displaying t
 - [**SF_Bay_Area.geojson**](SF_Bay_Area.geojson) is used to map zip codes to a map location. This can be found on [data.sfgov.org](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6).
 - [**SF_Prices.gif**](SF_Prices.gif) is the final GIF produced from this project.
 
-*Note that a ChromeDriver is needed to run the code in the Jupyter Lab file. This can be downloaded [here](https://chromedriver.chromium.org/).*
+*Note that a ChromeDriver is needed to run the code in the Jupyter Notebook file. This can be downloaded [here](https://chromedriver.chromium.org/).*
